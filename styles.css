@@ -1,0 +1,72 @@
+body{
+  background-color: white;
+}
+.box{
+  background-color: rgb(13, 55, 61);
+  color: white;
+  padding: 30px;
+  height: 630px;
+  width: 430px;
+  margin: 500px;
+  margin-top: 55px;
+  text-align: start;
+  padding-top: 1px;
+  font-size: x-large;
+ 
+  
+  
+  
+}
+.login input{
+  height: 50px;
+  width: 90%;
+  font-size: small;
+  font-weight: lighter;
+  background-color: rgb(13,55,61); 
+  border-color: white;
+  margin-bottom: 13px;
+  
+
+  
+}
+.passwords{
+  color: white;
+  margin-top: 70px;
+  text-decoration: none;
+  
+  
+  
+}
+.box button{
+  width: 88%;
+  height: 43px;
+  margin-top: 5%;
+  cursor: pointer;
+  font: medium;
+  font-size: 23px;
+  align-content: center;
+}
+.box h6{
+  font-weight: medium;
+  margin-bottom: 5%;
+
+}
+
+
+.instagram{
+  padding-left: 25%;
+}
+.facebook{
+  padding-left: 25%;
+
+}
+.github{
+  padding-left: 20%;
+ 
+}
+.login h1{
+ font: 100px;
+}
+.linkedin{
+  height: 100px;
+}
